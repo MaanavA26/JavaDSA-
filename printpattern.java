@@ -1,3 +1,12 @@
+/* WAP to print the following
+
+*
+**
+***
+****
+*****
+*/
+
 public class printpattern {
     public static void main(String[] args) {
         pattern(5, 5);
