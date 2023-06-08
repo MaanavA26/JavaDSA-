@@ -1,3 +1,6 @@
+/* Print all the permutations of substrings from a string using ArrayList in Recursion in Java
+*/
+
 import java.util.ArrayList;
 
 public class permutation {
