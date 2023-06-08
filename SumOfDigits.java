@@ -1,3 +1,6 @@
+/* Sum of all the digits of a number
+*/
+
 public class SumOfDigits {
     public static void main(String[] args) {
         sod(365, 0);
