@@ -1,6 +1,8 @@
 ********************************************************************************************************
 
-All DSA Questions attempted and solved during placement preparation.
+**All DSA Questions attempted and solved during placement preparation.**
+
+Do read the Wiki!!
 
 ********************************************************************************************************
 
