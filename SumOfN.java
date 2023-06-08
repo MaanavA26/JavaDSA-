@@ -1,3 +1,6 @@
+/* Sum of N numbers
+*/
+
 public class SumOfN {
     public static void main(String[] args) {
         int n = 3;
