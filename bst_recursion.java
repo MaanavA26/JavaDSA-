@@ -1,3 +1,6 @@
+/* Binary search tree using recursion
+*/
+
 public class bst_recursion {
     public static void main(String[] args) {
         int arr[] = {1, 2, 3, 4, 55, 66};
